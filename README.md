@@ -53,7 +53,7 @@ Matching points are connected visually with lines and labeled. All output is sav
 Run the main script with two image paths:
 
 ```bash
-python -m star_matcher.main photos/fr1.jpg photos/ST_db1.png
+python -m star_matcher.main photos/fr1.jpg photos/ST_db2.png
 ```
 
 ---
